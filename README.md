@@ -1,24 +1,22 @@
-<h1 align="center">
-  <br>
-  <a href=""><img src="https://user-images.githubusercontent.com/13212227/90197828-d4d52880-de0a-11ea-94cb-358cd28dadb5.png" alt="" width="220px;"></a>
+<h2> Hi, I'm HAHWUL!</h2>
+<img align='right' src="https://user-images.githubusercontent.com/13212227/90197828-d4d52880-de0a-11ea-94cb-358cd28dadb5.png" width="230">
+<p><em>Security Enginner and Bugbounty Hunter <br>
+  Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="100%">
-  <br>
-  <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat-square"></a>
-  <a href="https://paypal.me/hahwul"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat"></a>
-</h1>
+[![Twitter: hahwul](https://img.shields.io/twitter/follow/hahwul?style=flat-square)](https://twitter.com/hahwul)
+[![GitHub hahwul](https://img.shields.io/github/followers/hahwul?label=follow%20github&style=flat-square)](https://github.com/hahwul)
+[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/hahwul)
 
-<!--
-**hahwul/hahwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little more about me...  
 
-Here are some ideas to get you started:
+```go
+package main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main(){
+  pronouns := "he | him"
+  code := "Go" + "Ruby" + "Javascript" + "Every thing"
+}
+```
+---
+<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical">
