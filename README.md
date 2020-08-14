@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://user-images.githubusercontent.com/13212227/90213119-ea107e00-de2f-11ea-9507-b6a6eb3c3bfa.png" alt="" width="100%;"></a>
+  <a href=""><img src="https://user-images.githubusercontent.com/13212227/90197828-d4d52880-de0a-11ea-94cb-358cd28dadb5.png" alt="" width="220px;"></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="100%">
   <br>
