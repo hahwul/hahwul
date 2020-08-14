@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://user-images.githubusercontent.com/13212227/90197828-d4d52880-de0a-11ea-94cb-358cd28dadb5.png" alt="" width="210px;"></a>
+  <a href=""><img src="https://user-images.githubusercontent.com/13212227/90213119-ea107e00-de2f-11ea-9507-b6a6eb3c3bfa.png" alt="" width="100%;"></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="100%">
   <br>
   <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat-square"></a>
   <a href="https://paypal.me/hahwul"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat"></a>
 </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="100%">
-
 
 <!--
 **hahwul/hahwul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
