@@ -5,7 +5,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat-square"></a>
   <a href="https://paypal.me/hahwul"><img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat"></a>
 </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="100%">
 
 
 <!--
