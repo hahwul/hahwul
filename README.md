@@ -5,14 +5,14 @@
   “hahwul” is a new word made by remixing my name, and it means me. pronunciation is a little vague. say ‘ha-hul’ but you can just call me ‘howl’
 </em></p>
 
-[![Twitter: hahwul](https://img.shields.io/twitter/follow/hahwul?style=flat-square)](https://twitter.com/hahwul)
-[![GitHub hahwul](https://img.shields.io/github/followers/hahwul?label=follow%20github&style=flat-square)](https://github.com/hahwul)
-[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/hahwul)
+[![](https://img.shields.io/twitter/follow/hahwul?color=black&logo=twitter&style=flat-square&label=%40hahwul)](https://twitter.com/hahwul)
+![](https://img.shields.io/github/followers/hahwul?color=black&label=%40hahwul&logo=GitHub&style=flat-square)
+![](https://img.shields.io/github/stars/hahwul?color=black&logo=GitHub&style=flat-square)
+[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat&color=black&logo=paypal)](https://paypal.me/hahwul)
 
 <br>
 
 ### More about me...
-
 ```go
 package main
 
