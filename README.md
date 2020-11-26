@@ -45,5 +45,9 @@ func main() {
 ![](https://img.shields.io/badge/-k8s-black?logo=kubernetes&color=gray&style=flat)
 ![](https://img.shields.io/badge/-git-black?logo=git&color=gray&style=flat)
 ![](https://img.shields.io/badge/-github%20action-black?logo=Github%20Actions&color=gray&style=flat)
+![](https://img.shields.io/badge/-nvim-black?logo=neovim&color=gray&style=flat)
+![](https://img.shields.io/badge/-macos/ios-black?logo=apple&color=gray&style=flat)
+![](https://img.shields.io/badge/-ubuntu-black?logo=ubuntu&color=gray&style=flat)
+![](https://img.shields.io/badge/-arch-black?logo=arch%20linux&color=gray&style=flat)
 
 ---
