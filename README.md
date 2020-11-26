@@ -49,5 +49,6 @@ func main() {
 ![](https://img.shields.io/badge/-macos/ios-black?logo=apple&color=gray&style=flat)
 ![](https://img.shields.io/badge/-ubuntu-black?logo=ubuntu&color=gray&style=flat)
 ![](https://img.shields.io/badge/-arch-black?logo=arch%20linux&color=gray&style=flat)
+![](https://img.shields.io/badge/-jekyll-black?logo=jekyll&color=gray&style=flat)
 
 ---
