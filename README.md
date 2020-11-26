@@ -36,19 +36,4 @@ func main() {
 [![Paypal hahwul](https://img.shields.io/badge/support-$-ff69b4.svg?style=flat&color=gray&logo=paypal)](https://paypal.me/hahwul)
 [![bmc hahwul](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=gray&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/hahwul)
 
-![](https://img.shields.io/badge/-go-black?logo=go&color=gray&style=flat)
-![](https://img.shields.io/badge/-ruby-black?logo=ruby&color=gray&style=flat)
-![](https://img.shields.io/badge/-eilxir-black?logo=elixir&color=gray&style=flat)
-![](https://img.shields.io/badge/-swift-black?logo=swift&color=gray&style=flat)
-![](https://img.shields.io/badge/-vue-black?logo=Vue.js&color=gray&style=flat)
-![](https://img.shields.io/badge/-docker-black?logo=docker&color=gray&style=flat)
-![](https://img.shields.io/badge/-k8s-black?logo=kubernetes&color=gray&style=flat)
-![](https://img.shields.io/badge/-git-black?logo=git&color=gray&style=flat)
-![](https://img.shields.io/badge/-github%20action-black?logo=Github%20Actions&color=gray&style=flat)
-![](https://img.shields.io/badge/-nvim-black?logo=neovim&color=gray&style=flat)
-![](https://img.shields.io/badge/-macos/ios-black?logo=apple&color=gray&style=flat)
-![](https://img.shields.io/badge/-ubuntu-black?logo=ubuntu&color=gray&style=flat)
-![](https://img.shields.io/badge/-arch-black?logo=arch%20linux&color=gray&style=flat)
-![](https://img.shields.io/badge/-jekyll-black?logo=jekyll&color=gray&style=flat)
-
 ---
