@@ -29,10 +29,10 @@ func main() {
 }
 ```
 
-[![](https://img.shields.io/twitter/follow/hahwul?color=white&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/hahwul)
-![](https://img.shields.io/github/followers/hahwul?color=white&label=%40hahwul&logo=GitHub)
-![](https://img.shields.io/github/stars/hahwul?color=white&logo=GitHub)
-[![Paypal hahwul](https://img.shields.io/badge/support-$-ff69b4.svg?style=flat&color=white&logo=paypal)](https://paypal.me/hahwul)
+[![](https://img.shields.io/twitter/follow/hahwul?color=gray&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/hahwul)
+![](https://img.shields.io/github/followers/hahwul?color=gray&label=%40hahwul&logo=GitHub)
+![](https://img.shields.io/github/stars/hahwul?color=gray&logo=GitHub)
+[![Paypal hahwul](https://img.shields.io/badge/support-$-ff69b4.svg?style=flat&color=gray&logo=paypal)](https://paypal.me/hahwul)
 ![](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)
 ![](https://img.shields.io/badge/-go-black?logo=go&color=gray&style=flat)
 ![](https://img.shields.io/badge/-ruby-black?logo=ruby&color=gray&style=flat)
