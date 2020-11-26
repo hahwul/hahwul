@@ -1,21 +1,4 @@
 <h2> Hi, I'm HAHWUL!</h2>
-
-[![](https://img.shields.io/twitter/follow/hahwul?color=white&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/hahwul)
-![](https://img.shields.io/github/followers/hahwul?color=white&label=%40hahwul&logo=GitHub)
-![](https://img.shields.io/github/stars/hahwul?color=white&logo=GitHub)
-[![Paypal hahwul](https://img.shields.io/badge/support-$-ff69b4.svg?style=flat&color=white&logo=paypal)](https://paypal.me/hahwul)
-
-
-![](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray)
-![](https://img.shields.io/badge/-go-black?logo=go&color=gray)
-![](https://img.shields.io/badge/-ruby-black?logo=ruby&color=gray)
-![](https://img.shields.io/badge/-eilxir-black?logo=elixir&color=gray)
-![](https://img.shields.io/badge/-swift-black?logo=swift&color=gray)
-![](https://img.shields.io/badge/-vue-black?logo=Vue.js&color=gray)
-![](https://img.shields.io/badge/-docker-black?logo=docker&color=gray)
-![](https://img.shields.io/badge/-k8s-black?logo=kubernetes&color=gray)
-![](https://img.shields.io/badge/-git-black?logo=git&color=gray)
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="380">
 <p><em>Security Engineer and Bugbounty Hunter <br>
   Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
@@ -45,4 +28,19 @@ func main() {
   _ = me
 }
 ```
+
+[![](https://img.shields.io/twitter/follow/hahwul?color=white&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/hahwul)
+![](https://img.shields.io/github/followers/hahwul?color=white&label=%40hahwul&logo=GitHub)
+![](https://img.shields.io/github/stars/hahwul?color=white&logo=GitHub)
+[![Paypal hahwul](https://img.shields.io/badge/support-$-ff69b4.svg?style=flat&color=white&logo=paypal)](https://paypal.me/hahwul)
+![](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray)
+![](https://img.shields.io/badge/-go-black?logo=go&color=gray)
+![](https://img.shields.io/badge/-ruby-black?logo=ruby&color=gray)
+![](https://img.shields.io/badge/-eilxir-black?logo=elixir&color=gray)
+![](https://img.shields.io/badge/-swift-black?logo=swift&color=gray)
+![](https://img.shields.io/badge/-vue-black?logo=Vue.js&color=gray)
+![](https://img.shields.io/badge/-docker-black?logo=docker&color=gray)
+![](https://img.shields.io/badge/-k8s-black?logo=kubernetes&color=gray)
+![](https://img.shields.io/badge/-git-black?logo=git&color=gray)
+
 ---
