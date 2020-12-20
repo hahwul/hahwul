@@ -17,7 +17,7 @@ type Me struct{
   BestAndFavoriteSkill string
 }
 
-func main() {
+func main(){
   me := &Me{
     Job: "Security engineer and Red team that aims for a purple team.",
     Pronouns: "He/Him",
