@@ -36,5 +36,3 @@ func main(){
 [![bmc hahwul](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=gray&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/hahwul)
 
 ---
-
-<a href="jhttps://www.hahwul.com">.</a>
