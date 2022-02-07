@@ -10,21 +10,26 @@
 ```go
 package main
 
-type Me struct{
-  Pronouns string
-  Code string
-  Job string
-  BestAndFavoriteSkill string
+type Me struct {
+	Job         string
+	Pronouns    string
+	SpecialMove string
+	MainWeapon  string
+	Language    []string
 }
 
-func main(){
-  me := &Me{
-    Job: "Security engineer and Red team that aims for a purple team.",
-    Pronouns: "He/Him",
-    Code: "Go and Ruby and Everythings",
-    BestAndFavoriteSkill: "Web Hacking :D"
-  }
-  _ = me
+func main() {
+	me := &Me{
+		Job:         "🗡 Security engineer and Red team that aims for a purple team.",
+		Pronouns:    "🧑🏽‍💻 He/Him",
+		SpecialMove: "🔥 Web Hacking",
+		MainWeapon:  "⚡️ OWASP ZAP",
+		Language: []string{
+			"🐹 I Love Golang",
+			"💎 and Ruby",
+		},
+	}
+	_ = me
 }
 ```
 
