@@ -31,6 +31,9 @@ func main() {
 	}
 	_ = me
 }
+
+// Although I usually like web hacking, I work and play based on all areas of service security 
+// such as mobile, iot, desktop application, secure programming, pentest and system hardening 😎
 ```
 
 [![](https://img.shields.io/twitter/follow/hahwul?color=gray&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/hahwul)
