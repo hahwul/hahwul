@@ -6,7 +6,8 @@
 </em></p>
 <br><br><br><br>
 
-### More about me...
+More about me...
+
 ```go
 package main
 
@@ -35,14 +36,3 @@ func main() {
 // Although I usually like web hacking, I work and play based on all areas of service security 
 // such as mobile, iot, desktop application, secure programming, pentest and system hardening 😎
 ```
-
-[![](https://img.shields.io/twitter/follow/hahwul?color=gray&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/hahwul)
-[![](https://img.shields.io/github/followers/hahwul?color=gray&label=%40hahwul&logo=GitHub)](https://github.com/hahwul)
-[![](https://img.shields.io/github/stars/hahwul?color=gray&logo=GitHub)](https://github.com/hahwul)
-[![](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/hahwul)
-[![Paypal hahwul](https://img.shields.io/badge/support-$-ff69b4.svg?style=flat&color=gray&logo=paypal)](https://paypal.me/hahwul)
-[![bmc hahwul](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=gray&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/hahwul)
-
-<img src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="50%">
-
----
