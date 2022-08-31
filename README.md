@@ -8,31 +8,16 @@
 
 More about me...
 
-```go
-package main
+```ruby
+def this_is_me
+	hahwul = {}
+	hahwul[:job] = '🗡 Security engineer, red team that aims for a purple team'
+	hahwul[:pronouns] = '🧑🏽‍💻 He/Him'
+	hahwul[:special_move] = '🔥 Web Hacking'
+	hahwul[:main_weapon] = '⚡️ OWASP ZAP'
+	hahwul[:loved_language] = ['💎 Ruby', '🐹 Golang']
+end
 
-type Me struct {
-	Job         string
-	Pronouns    string
-	SpecialMove string
-	MainWeapon  string
-	Language    []string
-}
-
-func main() {
-	me := &Me{
-		Job:         "🗡 Security engineer and Red team that aims for a purple team.",
-		Pronouns:    "🧑🏽‍💻 He/Him",
-		SpecialMove: "🔥 Web Hacking",
-		MainWeapon:  "⚡️ OWASP ZAP",
-		Language: []string{
-			"🐹 I Love Golang",
-			"💎 and Ruby",
-		},
-	}
-	_ = me
-}
-
-// Although I usually like web hacking, I work and play based on all areas of service security 
-// such as mobile, iot, desktop application, secure programming, pentest and system hardening 😎
+# Although I usually like web hacking, 
+# I work and play based on all areas of service security
 ```
