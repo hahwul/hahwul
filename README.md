@@ -14,7 +14,7 @@ def this_is_me
   hahwul[:pronouns] = '🧑🏽‍💻 He/Him'
   hahwul[:special_move] = '🔥 Web Hacking'
   hahwul[:main_weapon] = '⚡️ OWASP ZAP'
-  hahwul[:love_language] = ['💎 Ruby', '🐹 Golang']
+  hahwul[:favorite_language] = ['💎 Ruby', '🐹 Golang']
   hahwul
 end
 
