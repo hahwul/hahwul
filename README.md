@@ -10,12 +10,12 @@ More about me...
 ```ruby
 def this_is_me
   hahwul = {}
-  hahwul[:job] = '🗡 Security engineer, red team that aims for a purple team'
-  hahwul[:pronouns] = '🧑🏽‍💻 He/Him'
-  hahwul[:special_move] = '🔥 Web Hacking'
-  hahwul[:main_weapon] = ['⚡️ ZAP', '☄️ Metasploit']
-  hahwul[:favorite_language] = ['💎 Ruby', '🐹 Golang']
-  hahwul[:loved_language] = hahwul[:favorite_language].push ['💎 Crystal']
+  hahwul[:job] = "🗡 Security engineer, red team that aims for a purple team"
+  hahwul[:pronouns] = "🧑🏽‍💻 He/Him"
+  hahwul[:special_move] = "🔥 Web Hacking"
+  hahwul[:main_weapon] = ["⚡️ ZAP", "☄️ Metasploit"]
+  hahwul[:favorite_language] = ["💎 Ruby", "🐹 Golang"]
+  hahwul[:loved_language] = hahwul[:favorite_language] << "💎 Crystal"
   hahwul
 end
 
