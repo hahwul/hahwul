@@ -13,7 +13,7 @@ def this_is_me
   hahwul[:job] = "🗡 Security engineer, red team that aims for a purple team"
   hahwul[:pronouns] = "🧑🏽‍💻 He/Him"
   hahwul[:special_move] = "🔥 Web Hacking"
-  hahwul[:main_weapon] = ["⚡️ ZAP", "☄️ Metasploit"]
+  hahwul[:main_weapon] = ["⚡️ ZAP", "🌕 Caido", "☄️ Metasploit"]
   hahwul[:favorite_language] = ["💎 Ruby", "🐹 Golang"]
   hahwul[:loved_language] = hahwul[:favorite_language] << "💎 Crystal"
   hahwul
