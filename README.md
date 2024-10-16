@@ -29,3 +29,5 @@ end
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=zap&logoColor=white)
+![](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
