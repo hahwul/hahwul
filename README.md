@@ -1,4 +1,4 @@
-Hey there! I'm HyunHwan Lee, but you might know me better as HAHWUL. 
+Hey there! I'm Hwan Lee, but you might know me better as HAHWUL. 
 
 I'm an offensive security engineer and hacker who also loves coding—mostly with Rust, Ruby and Crystal. 
 'hahwul' is a new word made by remixing my name, and that's me. Feel free to call me HAH-hul or HOWL—whichever you prefer!
