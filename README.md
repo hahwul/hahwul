@@ -12,4 +12,3 @@ I'm an offensive security engineer and hacker who also loves coding—mostly wit
 ![](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=zap&logoColor=white)
 ![](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/Zola-000000?style=for-the-badge&logo=zola&logoColor=white)
