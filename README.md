@@ -1,6 +1,6 @@
 Hello! I'm Hwan Lee, better known online as HAHWUL. I'm an Offensive Security Engineer and hacker based in South Korea.
 
-I really enjoy programming in languages like Crystal, Rust, Go, and Ruby. 'hahwul' is a word I created from my name, and it basically represents me. You can call me Hahwul or Hawul — whichever you prefer!
+I really enjoy programming in languages like Crystal, Rust, Go, and Ruby. 'hahwul' is a word I created from my name, and it basically means me. You can call me Hahwul (ha-hool) or Hawul (ha-ool), whichever you prefer!
 
 ![](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
